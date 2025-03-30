@@ -1,4 +1,4 @@
-### `calculadora funcionando`
+### `Calculadora funcionando`
 https://calculadora-javascript-francisco.netlify.app/
 
 ## Funciones Principales
